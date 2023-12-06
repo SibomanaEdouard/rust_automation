@@ -1,0 +1,11 @@
+/home/edouard/Desktop/programming/additional/RUSTPROJECT/rust_project/target/debug/deps/select-0cf2bd89e25b92a6.rmeta: /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/lib.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/document.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/node.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/predicate.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/selection.rs
+
+/home/edouard/Desktop/programming/additional/RUSTPROJECT/rust_project/target/debug/deps/libselect-0cf2bd89e25b92a6.rlib: /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/lib.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/document.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/node.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/predicate.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/selection.rs
+
+/home/edouard/Desktop/programming/additional/RUSTPROJECT/rust_project/target/debug/deps/select-0cf2bd89e25b92a6.d: /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/lib.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/document.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/node.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/predicate.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/selection.rs
+
+/home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/lib.rs:
+/home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/document.rs:
+/home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/node.rs:
+/home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/predicate.rs:
+/home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/selection.rs:

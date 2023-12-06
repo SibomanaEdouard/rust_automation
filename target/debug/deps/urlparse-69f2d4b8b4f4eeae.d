@@ -1,0 +1,11 @@
+/home/edouard/Desktop/programming/additional/RUSTPROJECT/rust_project/target/debug/deps/urlparse-69f2d4b8b4f4eeae.rmeta: /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/lib.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/quote.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/unquote.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/query_string.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/url.rs
+
+/home/edouard/Desktop/programming/additional/RUSTPROJECT/rust_project/target/debug/deps/liburlparse-69f2d4b8b4f4eeae.rlib: /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/lib.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/quote.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/unquote.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/query_string.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/url.rs
+
+/home/edouard/Desktop/programming/additional/RUSTPROJECT/rust_project/target/debug/deps/urlparse-69f2d4b8b4f4eeae.d: /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/lib.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/quote.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/unquote.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/query_string.rs /home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/url.rs
+
+/home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/lib.rs:
+/home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/quote.rs:
+/home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/unquote.rs:
+/home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/query_string.rs:
+/home/edouard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/urlparse-0.7.3/src/url.rs:
